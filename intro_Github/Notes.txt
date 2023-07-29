@@ -1,0 +1,2 @@
+Link to download Git: https://git-scm.com/downloads
+Git Bash is the application for Microsoft Windows environments that provides the emulation layer for the Git command line experience. Bash is an acronym for "Bourne Again Shell". Shells are terminal applications used to interface into operating systems through written commands.
